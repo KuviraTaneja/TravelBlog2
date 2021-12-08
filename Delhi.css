@@ -1,0 +1,14 @@
+.test {
+    margin-top: 30px;
+    font-size: 31.5px;
+    color: antiquewhite;
+    font-style: italic;
+}
+.thumbnail {
+    margin-right: 15px;
+}
+body {
+    background-image: url("https://wallpaperaccess.com/full/3509789.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+  }

@@ -1,0 +1,14 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+.thumbnail :hover {
+    transform:scale(1.2);
+    border-radius: 20px;
+    border: 2px solid black;
+}
